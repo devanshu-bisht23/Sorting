@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include<cstdlib> // for rand
-#include <ctime> // for seed to generate random number
+#include <ctime> // for seed 
 
 using namespace std;
 
